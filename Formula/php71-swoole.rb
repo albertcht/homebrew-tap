@@ -4,9 +4,9 @@ class Php71Swoole < AbstractPhp71Extension
   init
   desc "Event-driven asynchronous & concurrent networking engine for PHP."
   homepage "https://pecl.php.net/package/swoole"
-  url "https://github.com/swoole/swoole-src/archive/v2.0.12.tar.gz"
-  version "2.0.12"
-  sha256 "37667d5b94bfd42422330c343b2dba3a4fcb6cfc52f8ef95a730650bb3bf97ec"
+  url "https://github.com/swoole/swoole-src/archive/v2.1.0.tar.gz"
+  version "2.1.0"
+  sha256 "a569ad163059519d0378c45ea2dc6f9971c1c061d4f40bac8c3b63b2d8e2249f"
   head "https://github.com/swoole/swoole-src.git"
 
   bottle do
